@@ -1,8 +1,8 @@
 # homeblocklist
 0.0.0.0 ad.mail.ru
 !dostavista begin posthog-public.dv.team api.mindbox.ru robot.dostavista.ru mobile-static.mindbox.ru eouavt.launches.appsflyersdk.com
-||dv.team*
-||mindbox.ru*
-||dostavista.ru*
+||dv.team*$important
+||mindbox.ru*$important
+||dostavista.ru*$important
 !dostavista end(+dwn)
-||appsflyersdk.com*
+||appsflyersdk.com*$important
