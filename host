@@ -1,10 +1,10 @@
 # homeblocklist
 0.0.0.0 ad.mail.ru
-0.0.0.0 dv.team
+0.0.0.0 dv.team #dostavista begin
 0.0.0.0 mindbox.ru
 0.0.0.0 api.mindbox.ru
 0.0.0.0 dostavista.ru
 0.0.0.0 robot.dostavista.ru
 0.0.0.0 posthog-public.dv.team
 0.0.0.0 mobile-static.mindbox.ru
-0.0.0.0 eouavt.launches.appsflyersdk.com
+0.0.0.0 eouavt.launches.appsflyersdk.com #dostavista end
