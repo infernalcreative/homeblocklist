@@ -6,3 +6,9 @@
 ||dostavista.ru*$important
 !dostavista end(+dwn)
 ||appsflyersdk.com*$important
+!+ laggy masp dostavista
+0.0.0.0 tile0-sdk.maps.2gis.com
+0.0.0.0 keys.api.2gis.com
+0.0.0.0 catalog.api.2gis.com
+0.0.0.0 map-settings.api.2gis.ru
+0.0.0.0 s1.bss.2gis.com
