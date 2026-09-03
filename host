@@ -21,8 +21,8 @@
 ||web.facebook.com^$important
 ||adx.videonow.ru^$important
 ||openrouter.ai^
-||onion^
-||i2p^
+||.onion^
+||.i2p^
 ||adriver.ru^$
 ||network-lc.ru^
 ||getshop.tv^
